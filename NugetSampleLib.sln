@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NdashLib", "NdashLib\NdashLib.csproj", "{0ED386B6-5B31-4FAE-B64B-CD5853794CAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ED386B6-5B31-4FAE-B64B-CD5853794CAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED386B6-5B31-4FAE-B64B-CD5853794CAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED386B6-5B31-4FAE-B64B-CD5853794CAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED386B6-5B31-4FAE-B64B-CD5853794CAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9BA971C-EA37-4F4F-AB81-C424495314DD}
+	EndGlobalSection
+EndGlobal
