@@ -4,7 +4,7 @@ using System.Text;
 
 namespace NdashLib
 {
-    public static partial class NDash
+    public static partial class Ndash
     {
         public class PartitionResult<T>
         {

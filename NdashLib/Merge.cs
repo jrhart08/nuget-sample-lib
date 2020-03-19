@@ -3,7 +3,7 @@ using System.Linq;
 
 namespace NdashLib
 {
-    public static partial class NDash
+    public static partial class Ndash
     {
         /// <summary>
         /// Merges the 2 dictionaries, with the first dictionary winning key conflicts.

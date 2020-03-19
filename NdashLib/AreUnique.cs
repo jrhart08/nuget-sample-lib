@@ -4,7 +4,7 @@ using System.Linq;
 
 namespace NdashLib
 {
-    public static partial class NDash
+    public static partial class Ndash
     {
         /// <summary>
         /// Returns `true` if all items are unique, false otherwise.
