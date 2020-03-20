@@ -20,9 +20,7 @@ dotnet build --configuration Release
 dotnet pack --configuration Release --include-source
 
 # push to our repository
-# if using artifactory, it will look something like this:
-# dotnet nuget push .\bin\Release\*.nupkg --api-key <key> --source http://localhost:8081/artifactory/api/nuget/nuget
-dotnet nuget push .\bin\Release\*.nupkg C:\nuget-repo
+dotnet nuget push .\bin\Release\*.nupkg --source C:\nuget-repo
 ```
 
 **Note**: Add `*.nupkg` to your `.gitignore` if it isn't already there.
